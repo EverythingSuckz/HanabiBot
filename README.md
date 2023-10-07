@@ -1,5 +1,5 @@
-# <center>Hanabi Bot</center>
 <div align="center">
+<h1>Hanabi Bot</h1>
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/EverythingSuckz/HanabiBot/graphs/commit-activity)
@@ -7,10 +7,10 @@
 [![GitHub commits](https://badgen.net/github/commits/EverythingSuckz/HanabiBot)](https://GitHub.com/EverythingSuckz/HanabiBot/commit/)
 [![GitHub stars](https://img.shields.io/github/stars/EverythingSuckz/HanabiBot.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/EverythingSuckz/HanabiBot/stargazers/)
 
+WIP Implementation of Telegram bot for anime and manga.
+This repository is a rewrite of <a href="https://github.com/lostb053/anibot">[anibot]</a> by <a href="https://github.com/lostb053">[Lucky Jain]</a>.
 </div>
 
-<center>WIP Implementation of Telegram bot for anime and manga.</center>
-<center>This repository is a rewrite of <a href="https://github.com/lostb053/anibot">[anibot]</a> by <a href="https://github.com/lostb053">[Lucky Jain]</a>.</center>
 
 ## Features
 - [ ] Anime search
