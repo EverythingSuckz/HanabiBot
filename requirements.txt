@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+python-dotenv
+SQLAlchemy
+ormar
+aiosqlite
